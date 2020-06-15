@@ -1,5 +1,5 @@
 ## CHICKEN'S HOUSE
-- [ ] Base de datos
+### Base de datos
 -  - [ ] Usuarios
 -  - [ ] Clientes
 -  - [ ] Direcciones
@@ -7,9 +7,9 @@
 -  - [ ] Paquetes
 -  - [ ] Ventas
 -  - [ ] Inventario
-- [ ] Diseño de la página
-- [ ] Login
-- [ ] Registrar cliente
+### Diseño de la página
+### Login
+### Registrar cliente
 -  - [ ] Nombre completo
 -  - [ ] Calle
 -  - [ ] Colonia o asentamiento
@@ -17,23 +17,23 @@
 -  - [ ] Número interior
 -  - [ ] Número exterior
 -  - [ ] Referencias
-- [ ] Página de todos los clientes
-- [ ] Buscador por nombre o npumero de teléfono (Página inicial)
-- [ ] Registro de productos
+### Página de todos los clientes
+### Buscador por nombre o número de teléfono (Página inicial)
+### Registro de productos
 -  - [ ] Nombre del producto
 -  - [ ] Unidad de medida
 -  - [ ] Porción
 -  - [ ] Precio
-- [ ] Registro de paquetes
+### Registro de paquetes
 - - [ ] Nombre del paquete
 - - [ ] ID de productos
 - - [ ] Cantidad de cada producto
 - - [ ] Precio
-- [ ] Registro de inventario
+### Registro de inventario
 - - [ ] ID del producto
 - - [ ] Cantidad
-- [ ] Vista del inventario
-- [ ] Realizar venta (Página inicial)
+### Vista del inventario
+### Realizar venta (Página inicial)
 - - [ ] ID del cliente
 - - [ ] ID del producto o paquete
 - - [ ] Cantidad de cada producto o paquete
@@ -41,8 +41,8 @@
 - - [ ] Total pagado
 - - [ ] Pagó con ($)
 - - [ ] Se le dió de cambio ($)
-- [ ] Historial de ventas
-- [ ] Dashboard
+### Historial de ventas
+### Dashboard
 - - [ ] Productos más vendidos del día
 - - [ ] Paquetes más vendidos del día
 - - [ ] Inventario pequeño
