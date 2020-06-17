@@ -1,12 +1,11 @@
 ## CHICKEN'S HOUSE
 ### Base de datos
--  - [ ] Usuarios
--  - [ ] Clientes
--  - [ ] Direcciones
--  - [ ] Productos
--  - [ ] Paquetes
--  - [ ] Ventas
--  - [ ] Inventario
+-  - [x] Usuarios
+-  - [x] Clientes
+-  - [x] Productos
+-  - [x] Paquetes
+-  - [x] Ventas
+-  - [x] Inventario
 ### Diseño de la página
 ### Login
 ### Registrar cliente
